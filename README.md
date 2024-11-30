@@ -1,5 +1,7 @@
 
-This is the hub for Retrobator, a NES emulator available on Steam and Itch.io.
+![](smallCapsule.png)
+
+This is the hub for Retrobator, a NES emulator available on [Steam](https://store.steampowered.com/app/3282220/Retrobator/) and Itch.io.
 
 To report an issue, see [Issues](https://github.com/arrectis/retrobator-home/issues) or contact [support@arrectis.com](mailto:support@arrectis.com) directly.
 
@@ -19,8 +21,8 @@ You can also download the mod in .Zip form here.
 - **Butter Mode** - Interpolation enables smoother background and sprite movement, especially during slow-motion (re)play.
 - **Backgrounds** - Replace in-game 'sky' pixels with custom or generated* images.
 - **Audio** - Smooth, unmixed audio channel waveforms, with adjustable octaves for deeper bass.
-- **AI Integration*** - Interact with your own AI agent. See [AI](#ai-Assistant).
-- **(Other Features)** - Fast-forward, rewind, slo-motion, input lag mitigation, CRT mode, save states and more.
+- **AI Integration*** - Interact with your own [AI agent](#what-is-an-ai-assistant?).
+- **Other Features** - Fast-forward, rewind, slo-motion, input lag mitigation, CRT mode, save states and more.
 
 ## FAQ ##
 
