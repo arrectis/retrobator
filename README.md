@@ -11,7 +11,7 @@ To report an issue, see [Issues](https://github.com/arrectis/retrobator-home/iss
 (Check here periodically for updates.)
 
 To install, download the PNG file above and open it in Retrobator.
-You can also download the mod in ZIP form [here](Supplemental%20Package.zip).
+You can also download the mod in ZIP form [here](https://github.com/arrectis/retrobator-home/raw/refs/heads/main/Supplemental%20Package.zip).
 
 ## Features ##
 
@@ -74,7 +74,7 @@ Note: This is currently utilizing OpenAI's _Advanced Voice Mode_, which is curre
 First, you must install the supplemental package found on [this page](#downloads).
 
 Finally, you must provide an OpenAI API key to Retrobator:
-1. Create an OpenAI API developer platform account on their site. (Currently [platform.openai.com](platform.openai.com))
+1. Create an OpenAI API developer platform account on their site. (Currently [platform.openai.com](https://platform.openai.com))
 2. Add some _Pay as you go_ credit. (Currently in the settings under _Billing_)
 3. In the Dashboard, create an API key, and copy it.
 4. In Retrobator, open the OpenAI window, and paste the key into the field.
@@ -124,7 +124,7 @@ The procedure for labelling tiles is fairly straightforward:
 - Tile labels, event labels (game-specific)
 - Mods (AI providers, etc.)
 
-A _package_ can contain any number of the above items, and can be embedded in a .png or .zip file.  See the [supplemental](#downloads) package as an example.
+A _package_ can contain any number of the above items, and can be embedded in a .png or .zip file.  See the [supplemental package](#downloads) as an example.
 
 ### How do mods work? ###
 Mods are simply C# code files that are compiled and cached at runtime that interact with Retrobator.
