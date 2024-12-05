@@ -1,18 +1,17 @@
 
 ![](smallCapsule.png)
 
-This is the hub for Retrobator, a NES emulator available on [Steam](https://store.steampowered.com/app/3282220/Retrobator/) and Itch.io.
+This is the hub for Retrobator, a NES emulator available on [Steam](https://store.steampowered.com/app/3282220/Retrobator/) and Itch.io (coming soon).
 
 To report an issue, see [Issues](https://github.com/arrectis/retrobator-home/issues) or contact [support@arrectis.com](mailto:support@arrectis.com) directly.
 
-#### Supplemental Package ####
-(Check here periodically for updates to this package.)
-This package contains:
-- The OpenAI Provider mod.
-- Basic event labels for several games.
-<>
-To install, save the image above to your PC and open it in Retrobator, or drag and drop the file into the Retrobator window.
-You can also download the mod in .Zip form here.
+## Downloads ##
+![](Supplemental%20Package.png)
+
+(Check here periodically for updates.)
+
+To install, download the PNG file above and open it in Retrobator.
+You can also download the mod in ZIP form [here](Supplemental%20Package.zip).
 
 ## Features ##
 
@@ -20,8 +19,8 @@ You can also download the mod in .Zip form here.
 - **Map** - Reveal traversed areas of the game by simply zooming out or by using a wide aspect ratio.  Replays are also shown on top of the map for your entertainment.
 - **Butter Mode** - Interpolation enables smoother background and sprite movement, especially during slow-motion (re)play.
 - **Backgrounds** - Replace in-game 'sky' pixels with custom or generated* images.
-- **Audio** - Smooth, unmixed audio channel waveforms, with adjustable octaves for deeper bass.
-- **AI Integration*** - Interact with your own [AI agent](#what-is-an-ai-assistant?).
+- **Audio** - Smooth and unmixed audio channel waveforms, with adjustable octaves for deeper bass.
+- **AI Integration*** - Interact with your own [AI agent](#what-is-an-ai-assistant).
 - **Other Features** - Fast-forward, rewind, slo-motion, input lag mitigation, CRT mode, save states and more.
 
 ## FAQ ##
@@ -30,7 +29,7 @@ You can also download the mod in .Zip form here.
 Retrobator is a nes emulator aiming to deliver a new experience.
 I plan to achieve this by:
 - Implementing rare or novel features.
-- Integrating AI for entertainment and control.
+- Integrating AI for interactivity and voice control.
 - Providing a platform for the community to build upon.
 
 ### Who is behind this? ###
@@ -43,9 +42,18 @@ Windows is the only officially supported platform at the moment, with others ten
 Although most games are compatible with Retrobator, a few notable games are not at this time.  If you want a particular game to be supported, let me know [here](https://github.com/arrectis/retrobator-home/issues).
 
 ### Where do I find games to use with Retrobator? ###
-Retrobator requires NES games in digital file form (typically called 'ROMs'). You can find indie NES games in digital form on Itch.io. 
+Retrobator requires NES games in digital file form (typically called 'ROMs'). You can find indie NES games in digital form on [Itch.io](www.itch.io). 
 
-When it comes to classic NES games, I can't help you there. Personally, I've used INLRetro and RetroBlaster hardware to create digital backups of games that I physically own, which is how I source my games.
+When it comes to classic NES games, I can't help you there. Personally, I've used INLRetro and RetroBlaster hardware to create digital backups of games that I physically own, which is how I source my ROMs.
+
+### What are custom backgrounds? ###
+A background is essentially an image that you provide that will display behind the game screen.  
+Retrobator makes a best guess at which game pixels are 'default background pixels' on the current game frame, and allows the custom background to show through them.
+
+While this technique works well for some games / game areas, it is very prone to error; you will often see the custom background bleed through game tiles where it should not.
+The simple solution (if a bit tedious) is to highlight the problematic game tiles (using the [tile labels](#what-are-tile-labels) menu) and flag them as 'opaque'.
+
+You can also download tile labels that were created by others if they are available. See [here](#what-kinds-of-things-can-be-imported-and-exported-tofrom-retrobator) for more information.
 
 ### What is an AI assistant? ###
 This is an __optional__, __experimental__ feature that is provided as a downloadable mod, and __requires OpenAI API credit to use.__
@@ -53,35 +61,29 @@ Alternate AI providers may be available in the future.
 
 What you can do with the AI assistant:
 - Command your AI assistant (via voice or text) to do various things for you: Open games, load cheats, generate backgrounds, etc. 
-- Converse, banter, and have your assistant react to in-game events*.
+- Converse, banter, and have your assistant react to in-game [events](#what-are-events)*.
 - Give your AI different personalities.
 
-Note: This is currently utilizing OpenAI's Advanced Voice Mode, which is currently accessible as a 'Preview'.  This means that:
+Note: This is currently utilizing OpenAI's _Advanced Voice Mode_, which is currently in 'Preview'.  This means that:
 - This service may have a daily limit. As of this writing, it does.
 - This service may suffer from outages or changes that will cause the assistant to go down. Check this page for updates to the OpenAI mod that may address these changes.
-- The "bring your own key" (BYOK) model of connecting to OpenAI may change in the future, or may even be forcibly nuked by OpenAI. Expect a transition period in the future to a different model.
-- Services like this are likely to get better, cheaper, and more ubiquitous in the coming months and years. 
+- The "bring your own key" (BYOK) model Retrobator uses for connecting to OpenAI may change in the future, or may even be nuked by OpenAI. If this happens, expect a transition period to a different model.
+- AI services like this are likely to get better, cheaper, and more ubiquitous in the coming months and years. 
 
 ### How do I use the AI Assistant? ###
-First, you must install the supplemental package found on this page.
+First, you must install the supplemental package found on [this page](#downloads).
 
-Then, navigate to "Packages" in Retrobator, and check the appropriate box to enable OpenAI.
-
-Finally, to connect the assistant, you must provide an OpenAI API key:
-1. Create an OpenAI API developer platform account on their site. (Currently platform.openai.com)
+Finally, you must provide an OpenAI API key to Retrobator:
+1. Create an OpenAI API developer platform account on their site. (Currently [platform.openai.com](platform.openai.com))
 2. Add some _Pay as you go_ credit. (Currently in the settings under _Billing_)
 3. In the Dashboard, create an API key, and copy it.
-4. In Retrobator, open the OpenAI widget, and paste the key into the field.";
+4. In Retrobator, open the OpenAI window, and paste the key into the field.
 
 This will allow Retrobator to communicate with OpenAI on your behalf. 
-
-Retrobator does not store or share your OpenAI API key. However, it may include application state in its messages to the API.
-
-### Why is AI provided only as a mod? ###
-Some app stores, like Steam, require that any features that incur charges (even if optional / 3rd-party) be funneled through the app store's microtransaction or subscription systems.  Since this would increase the cost of any AI services the user connects, I have opted to unbundle this feature from the product and offer it as an open-source mod.
+_Note: Retrobator does not store or share your OpenAI API key. However, it may include application state in its messages to the API._
 
 ### What are events? ###
-Retrobator does not send video of your gameplay session to the AI assistant.  So how does it know what's happening? 
+Retrobator does not send video of your gameplay session to the AI assistant.  So, how does it know what's happening in-game? 
 
 That's where _events_ come in. Example events:
 - Game opened (built-in)
@@ -91,7 +93,7 @@ That's where _events_ come in. Example events:
 
 etc.
 
-Retrobator does recognize most of these events by default; __you must provide examples__ of each event in order to "**teach**" Retrobator how to identify them on a per-game basis. Alternatively, you can import pre-defined events that others have exported; some have been provided in the supplement package.
+__Retrobator does not recognize events by default;__ you must provide examples of each event in order to "teach" Retrobator how to identify them on a per-game basis. Alternatively, you can import pre-defined events that others have exported; some event labels for some games have been provided in the [supplement package](#downloads).
 
 The general procedure for labelling events is as follows:
 - Load up a game.
@@ -101,29 +103,34 @@ The general procedure for labelling events is as follows:
   This means marking a frame before and frame after the example event occured.
 - Discover the event and label it appropriately.
 
-### What tile labels? ###
+### What are tile labels? ###
 Graphics are made up of squares of pixels called 'tiles'.  Together, these tiles form things like enemies, items, characters, etc.
+Using Retrobator, you can highlight and group tiles you see in-game.
 
-By highlighting and labelling groups of tiles you see in-game, you can provide the AI assistant with knowledge of what is showing on screen during an event. Tile groups may provide further uses as Retrobator's feature set grows.
+Thus far, tabelled tiles have a couple of uses:
+- Marking tiles as 'Opaque', so that custom backgrounds do not bleed through.
+- Providing the AI assistant knowledge of what is showing on screen when an event occurs.
 
 The procedure for labelling tiles is fairly straightforward:
-- Load up a game.
-- In game, find some graphics you want to label.
+- Open a game.
+- While playing, find some graphics you want to label.
 - Select 'Tile Labels' in the main menu.
 - Using a mouse, select and highlight the thing you want to label, including all of its tiles.
-- Right-click to group the tiles into a 'tile group'.
-- Label the tile group with the name of it (duplicate names are allowed.)
+- Right-click on the highlight to group the tiles into a 'tile group'.
+- Optionally label the tile group with the name of it (duplicate names are allowed) or set other flags.
 
 ### What kinds of things can be imported and exported to/from Retrobator? ###
-- Transformations (Backgrounds)
-- Labels (Tile groups, events)
+- Custom backgrounds (game-specific)
+- Tile labels, event labels (game-specific)
 - Mods (AI providers, etc.)
 
-Transformations and labels are game-specific, whereas mods may apply to any/all games.
+A _package_ can contain any number of the above items, and can be embedded in a .png or .zip file.  See the [supplemental](#downloads) package as an example.
 
 ### How do mods work? ###
-Mods are simply C# code files that are compiled and cached at runtime. These mods can provide services that interact with Retrobator at the application level or on a per-game basis.
+Mods are simply C# code files that are compiled and cached at runtime that interact with Retrobator.
 The mod API is evolving, and is not yet documented.
 
-### I found an issue, I have a suggestion. How do I forward it to your brain? ###
+Before enabling any mods, be sure to inspect the code and confirm that they are safe to use.
+
+### I found an issue or I have a suggestion. How do I forward it to your brain? ###
 See [Issues](https://github.com/arrectis/retrobator-home/issues).
