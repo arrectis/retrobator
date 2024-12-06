@@ -30,7 +30,7 @@ You can also download the mod in ZIP form [here](https://github.com/arrectis/ret
 Retrobator is a nes emulator aiming to deliver a new experience.
 I plan to achieve this by:
 - Implementing rare or novel features.
-- Integrating AI for interactivity and voice control.
+- Integrating AI for interactivity and voice control (using push-to-talk).
 - Providing a platform for the community to build upon.
 
 ### Who is behind this? ###
@@ -46,6 +46,11 @@ Although most games are compatible with Retrobator, a few notable games are not 
 Retrobator requires NES games in digital file form (typically called 'ROMs'). You can find indie NES games in digital form on [Itch.io](www.itch.io). 
 
 When it comes to classic NES games, I can't help you there. Personally, I've used INLRetro and RetroBlaster hardware to create digital backups of games that I physically own, which is how I source my ROMs.
+
+### What does the Timeline do? ###
+The Timeline records your gameplay as you play, and allows you to go back minutes or hours ago (adjustable) in your session, as if you are seeking around in a YouTube video.
+
+Currently, the disk space needed to store timeline data averages to around 50MB/hour.
 
 ### What are custom backgrounds? ###
 A background is essentially an image that you provide that will display behind the game screen.  
