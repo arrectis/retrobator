@@ -57,7 +57,8 @@ The simple solution (if a bit tedious) is to highlight the problematic game tile
 You can also download tile labels that were created by others if they are available. See [here](#what-kinds-of-things-can-be-imported-and-exported-tofrom-retrobator) for more information.
 
 ### What is an AI assistant? ###
-This is an __optional__, __experimental__ feature that is provided as a downloadable mod, and __requires OpenAI API credit to use.__
+This is an __optional__, __experimental__ feature that is provided as a downloadable mod, and __requires OpenAI API credit to use.__ _(Note: You might receive free credit from OpenAI for signing up.)_
+
 Alternate AI providers may be available in the future.
 
 What you can do with the AI assistant:
@@ -75,7 +76,7 @@ Note: This is currently utilizing OpenAI's _Advanced Voice Mode_, which is curre
 First, you must install the supplemental package found on [this page](#downloads).
 
 Finally, you must provide an OpenAI API key to Retrobator:
-1. Create an OpenAI API developer platform account on their site. (Currently [platform.openai.com](https://platform.openai.com))
+1. Create an OpenAI API developer platform account on their site (Currently [platform.openai.com](https://platform.openai.com)). 
 2. Add some _Pay as you go_ credit. (Currently in the settings under _Billing_)
 3. In the Dashboard, create an API key, and copy it.
 4. In Retrobator, open the OpenAI window, and paste the key into the field.
