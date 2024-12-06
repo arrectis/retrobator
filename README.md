@@ -1,9 +1,10 @@
 
 ![](smallCapsule.png)
 
-This is the hub for Retrobator, a NES emulator available on [Steam](https://store.steampowered.com/app/3282220/Retrobator/) and Itch.io (coming soon).
+This is the hub for Retrobator, a NES emulator available on [Steam](https://store.steampowered.com/app/3282220/Retrobator/) and [Itch.io](https://arrectis.itch.io/retrobator).
 
-To report an issue, see [Issues](https://github.com/arrectis/retrobator-home/issues) or contact [support@arrectis.com](mailto:support@arrectis.com) directly.
+To report an issue, see [Issues](https://github.com/arrectis/retrobator-home/issues).
+Also see [Discussions](https://github.com/arrectis/retrobator-home/discussions).
 
 ## Downloads ##
 ![](Supplemental%20Package.png)
