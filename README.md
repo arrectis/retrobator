@@ -62,7 +62,7 @@ The simple solution (if a bit tedious) is to highlight the problematic game tile
 You can also download tile labels that were created by others if they are available. See [here](#what-kinds-of-things-can-be-imported-and-exported-tofrom-retrobator) for more information.
 
 ### What is an AI assistant? ###
-This is an __optional__, __experimental__ feature that is provided as a downloadable mod, and __requires OpenAI API credit to use.__ _(Note: You might receive free credit from OpenAI for signing up.)_
+This is an __optional__, __experimental__ feature that is provided as a downloadable mod, and __requires OpenAI API credit to use.__
 
 Alternate AI providers may be available in the future.
 
