@@ -1,0 +1,114 @@
+END USER LICENSE AGREEMENT (EULA)
+Last Updated: 1/2/2025
+
+PLEASE READ THIS END USER LICENSE AGREEMENT (“AGREEMENT”) CAREFULLY BEFORE USING THE “RETROBATOR” SOFTWARE (THE “SOFTWARE”) PROVIDED BY ARRECTIS LLC (“DEVELOPER”). BY INSTALLING OR USING THE SOFTWARE, YOU (“USER”) AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
+
+1. License Grant
+1.1 Limited License. Subject to the terms of this Agreement, Developer grants you a non-exclusive, non-transferable, revocable license to install and use the Software solely for your personal, non-commercial purposes.
+
+1.2 Ownership. You acknowledge that the Software is licensed, not sold, and that all rights, title, and interest in and to the Software (including code, graphics, logos, and trademarks) remain with Developer.
+
+2. Use Restrictions
+2.1 No Resale or Distribution. You shall not sell, resell, distribute, sublicense, rent, lease, or lend the Software or any portion thereof to any third party.
+
+2.2 No Reverse Engineering. You shall not reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code or underlying algorithms of the Software.
+
+2.3 No Derivative Works. You shall not modify, adapt, translate, or create derivative works based on the Software without prior written consent from Developer.
+
+2.4 No Circumvention. You shall not interfere with or circumvent any security features or custom model instructions implemented in the Software.
+
+2.5 Legal Use Only. You agree not to use the Software for any illegal or unauthorized purpose, including creating or disseminating content that is hateful, defamatory, harassing, sexually explicit, exploitative of minors, or otherwise unlawful or violative of third-party rights.
+
+3. Compatible Game Software
+3.1 Legal Ownership. The Software emulates Nintendo Entertainment System (NES) games. You agree to only use the Software with game software that you legally own.
+
+3.2 No Illegal Use. You are prohibited from using the Software with any game software obtained through unauthorized or illegal means. Developer disclaims liability for such misuse.
+
+3.3 No Game Provision. Developer does not provide game software (ROMs, etc.) and is not responsible for the legality of any game software you use.
+
+4. OpenAI API Usage
+4.1 Autonomous Use. The Software may autonomously utilize your OpenAI API key to access OpenAI services. You are responsible for any fees incurred through your OpenAI account.
+
+4.2 Data Transmission. The Software may transmit application state or user data to OpenAI’s API. Your data is subject to OpenAI’s Privacy Policy and any applicable settings in your OpenAI account.
+
+4.3 Compliance. You agree to comply with all OpenAI Terms of Use and any other agreements you have with OpenAI. Developer is not liable for your breach of OpenAI’s terms.
+
+4.4 API Key Security. You are solely responsible for safeguarding your API key against unauthorized use. Developer is not liable for misuse of your API key.
+
+5. User-Generated Content
+5.1 Responsibility. You are solely responsible for any content (including images, text, plugins, or mods) you generate or disseminate using the Software.
+
+5.2 Prohibited Content. You shall not create or share content that is unlawful, infringes third-party rights, or is malicious (e.g., viruses, malware).
+
+5.3 License to Developer. By using the Software, you grant Developer a non-exclusive, worldwide, royalty-free license to use, reproduce, and display any content you generate solely for operating, maintaining, and improving the Software and enforcing this Agreement.
+
+5.4 Plugins & Mods. You assume full responsibility for importing or exporting plugins or mods. Developer makes no warranties regarding the safety, security, or legality of such plugins or mods and disclaims liability for damages arising therefrom.
+
+6. Third-Party Services & Trademarks
+6.1 Third-Party Services. The Software may rely on or integrate with third-party services (e.g., OpenAI). Developer makes no warranties regarding third-party services and is not liable for your use of them.
+
+6.2 Trademarks. All trademarks (including “Nintendo” and “NES”) are the property of their respective owners. No affiliation or endorsement by those owners is implied.
+
+6.3 No Affiliation. Developer is an independent entity and is not affiliated with or endorsed by Nintendo, OpenAI, or any other entity.
+
+7. Age Requirement
+7.1 Minimum Age. By using the Software, you represent that you are at least 13 years old (or the minimum legal age in your jurisdiction) and have the legal capacity to enter into this Agreement.
+
+8. Privacy & Data Handling
+8.1 Confidential Information. You agree not to include confidential or sensitive information in any data transmitted through the Software unless you have authorization to do so.
+
+8.2 Storage of API Key. The Software does not store your OpenAI API key beyond what is necessary for functionality. Developer disclaims liability for any third-party access to your key.
+
+9. Disclaimer of Warranties
+9.1 As Is. THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+9.2 No Guarantees. DEVELOPER DISCLAIMS ALL WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. YOUR USE OF THE SOFTWARE IS AT YOUR OWN RISK.
+
+10. Limitation of Liability
+10.1 Maximum Liability. IN NO EVENT SHALL DEVELOPER’S TOTAL LIABILITY EXCEED THE GREATER OF FIFTY DOLLARS ($50) OR THE AMOUNT YOU PAID FOR THE SOFTWARE.
+
+10.2 Exclusion of Damages. DEVELOPER SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, INCLUDING LOSS OF PROFITS, DATA, OR BUSINESS, ARISING OUT OF YOUR USE OR INABILITY TO USE THE SOFTWARE.
+
+10.3 Plugins & Mods. DEVELOPER SHALL NOT BE LIABLE FOR DAMAGES RESULTING FROM THE USE OR MISUSE OF ANY PLUGINS OR MODS, INCLUDING MALICIOUS CODE OR UNAUTHORIZED ACCESS.
+
+11. Indemnification
+11.1 General. You agree to indemnify, defend, and hold harmless Developer and its affiliates from any claims, liabilities, damages, and expenses (including attorneys’ fees) arising out of:
+
+Your use or misuse of the Software, plugins, or mods.
+Your violation of this Agreement or any applicable laws.
+Your infringement of any third-party rights, including intellectual property rights.
+12. Compliance with Laws & Export Controls
+12.1 Local Laws. You shall comply with all local, state, national, and international laws, regulations, and ordinances governing your use of the Software.
+
+12.2 Export Controls. You acknowledge that the Software may be subject to U.S. export control laws. You agree not to directly or indirectly export or re-export the Software in violation of such laws.
+
+13. Dispute Resolution & Arbitration
+13.1 Arbitration. Any disputes arising under this Agreement shall be resolved by binding arbitration in accordance with the rules of the American Arbitration Association (“AAA”). The arbitration shall take place in Wilmington, Delaware, unless otherwise agreed.
+
+13.2 Class Action Waiver. All claims must be brought on an individual basis. No class actions or other representative actions are permitted.
+
+13.3 Governing Law. This Agreement is governed by the laws of the State of Delaware, without regard to conflict-of-law principles.
+
+14. Termination
+14.1 Termination by Developer. Developer may terminate this Agreement and your access to the Software at any time for any reason, including breach of this Agreement.
+
+14.2 Effect of Termination. Upon termination, you must immediately cease all use of the Software and delete all copies in your possession or control. The provisions of this Agreement that, by their nature, should survive termination shall continue in effect.
+
+15. Miscellaneous
+15.1 Entire Agreement. This Agreement constitutes the entire agreement between you and Developer regarding the Software and supersedes all prior or contemporaneous communications.
+
+15.2 Severability. If any provision is deemed invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+15.3 Notices. All notices shall be in writing and deemed given when personally delivered, or upon email receipt, or three days after being sent by certified mail to the address below.
+Contact:
+ARRECTIS LLC
+Email: support@arrectis.com
+Address: 304 S. Jones Blvd #7699, Las Vegas, NV 89107
+
+15.4 No Third-Party Beneficiaries. This Agreement creates no third-party beneficiary rights.
+
+15.5 Language. This Agreement is written in English. In case of conflict between the English version and a translation, the English version prevails.
+
+15.6 Feedback. Any feedback you provide is voluntary, and Developer is free to use it without obligation to you.
+
+BY INSTALLING OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THE ABOVE TERMS AND CONDITIONS.
