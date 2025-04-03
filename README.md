@@ -1,4 +1,4 @@
 
 ![](smallCapsule.png)
 
-See the [wiki](https://github.com/arrectis/retrobator-home/wiki) for more information
+See [retrobator.com](https://www.retrobator.com/) for more information
